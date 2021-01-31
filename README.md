@@ -1,7 +1,7 @@
 # Air Checker Flutter
 
 ### Introduction
-user can check their areas air quality and also search other areas air quality.
+User can check their areas air quality and also search other areas air quality.
 
 ### Project Details
 1. Check your areas air quality.
